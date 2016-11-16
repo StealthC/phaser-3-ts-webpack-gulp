@@ -1,5 +1,5 @@
 {
-  "name": "phaser-ts-webpack-gulp",
+  "name": "phaser-3-ts-webpack-gulp",
   "version": "1.0.0",
   "description": "Boilerplate for Phaser Typescript using WebPack and gulp",
   "scripts": {
@@ -18,12 +18,12 @@
     "run-sequence": "^1.2.2",
     "ts-loader": "^0.8.2",
     "tslint": "^3.15.1",
-    "typescript": "^2.0.3",
-    "typings": "^1.4.0",
-    "webpack": "^1.13.2",
+    "typescript": "^2.0.10",
+    "typings": "^2.0.0",
+    "webpack": "^1.13.3",
     "webpack-dev-server": "^1.16.2"
   },
   "dependencies": {
-    "phaser": "^2.6.2"
+    "phaser": "github:photonstorm/phaser#dev"
   }
 }

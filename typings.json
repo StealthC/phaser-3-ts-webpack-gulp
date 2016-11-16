@@ -1,7 +1,7 @@
 {
-  "name": "phaser-ts-webpack-gulp",
+  "name": "phaser-3-ts-webpack-gulp",
   "dependencies": {},
   "globalDependencies": {
-    "phaser": "github:photonstorm/phaser/typescript/typings.json"
+    "phaser": "github:photonstorm/phaser#dev/typescript/"
   }
 }

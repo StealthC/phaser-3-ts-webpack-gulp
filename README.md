@@ -1,4 +1,4 @@
-# phaser-ts-webpack-gulp
+# phaser-3-ts-webpack-gulp
 Esqueleto para criação de games usando Phaser e Typescript.
 
 Tem as seguintes características:
